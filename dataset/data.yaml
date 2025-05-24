@@ -1,4 +1,62 @@
-train: C:\Users\Carl\Downloads\Groceries_project\GroceryStoreDataset\dataset\train
-val: C:\Users\Carl\Downloads\Groceries_project\GroceryStoreDataset\dataset\val
-nc: 81
-names: ['Golden-Delicious', 'Granny-Smith', 'Pink-Lady', 'Red-Delicious', 'Royal-Gala', 'Avocado', 'Banana', 'Kiwi', 'Lemon', 'Lime', 'Mango', 'Cantaloupe', 'Galia-Melon', 'Honeydew-Melon', 'Watermelon', 'Nectarine', 'Orange', 'Papaya', 'Passion-Fruit', 'Peach', 'Anjou', 'Conference', 'Kaiser', 'Pineapple', 'Plum', 'Pomegranate', 'Red-Grapefruit', 'Satsumas', 'Bravo-Apple-Juice', 'Bravo-Orange-Juice', 'God-Morgon-Apple-Juice', 'God-Morgon-Orange-Juice', 'God-Morgon-Orange-Red-Grapefruit-Juice', 'God-Morgon-Red-Grapefruit-Juice', 'Tropicana-Apple-Juice', 'Tropicana-Golden-Grapefruit', 'Tropicana-Juice-Smooth', 'Tropicana-Mandarin-Morning', 'Arla-Ecological-Medium-Fat-Milk', 'Arla-Lactose-Medium-Fat-Milk', 'Arla-Medium-Fat-Milk', 'Arla-Standard-Milk', 'Garant-Ecological-Medium-Fat-Milk', 'Garant-Ecological-Standard-Milk', 'Oatly-Natural-Oatghurt', 'Oatly-Oat-Milk', 'Arla-Ecological-Sour-Cream', 'Arla-Sour-Cream', 'Arla-Sour-Milk', 'Alpro-Blueberry-Soyghurt', 'Alpro-Vanilla-Soyghurt', 'Alpro-Fresh-Soy-Milk', 'Alpro-Shelf-Soy-Milk', 'Arla-Mild-Vanilla-Yoghurt', 'Arla-Natural-Mild-Low-Fat-Yoghurt', 'Arla-Natural-Yoghurt', 'Valio-Vanilla-Yoghurt', 'Yoggi-Strawberry-Yoghurt', 'Yoggi-Vanilla-Yoghurt', 'Asparagus', 'Aubergine', 'Cabbage', 'Carrots', 'Cucumber', 'Garlic', 'Ginger', 'Leek', 'Brown-Cap-Mushroom', 'Yellow-Onion', 'Green-Bell-Pepper', 'Orange-Bell-Pepper', 'Red-Bell-Pepper', 'Yellow-Bell-Pepper', 'Floury-Potato', 'Solid-Potato', 'Sweet-Potato', 'Red-Beet', 'Beef-Tomato', 'Regular-Tomato', 'Vine-Tomato', 'Zucchini']
+train: C:/Users/Carl/Downloads/Groceries_project/GroceryStoreDataset/dataset/train/images
+val: C:/Users/Carl/Downloads/Groceries_project/GroceryStoreDataset/dataset/valid/images
+test: C:/Users/Carl/Downloads/Groceries_project/GroceryStoreDataset/dataset/test/images
+names:
+  0: '-'
+  1: Apple
+  2: Asparagus
+  3: Avocado
+  4: Banana
+  5: Beans
+  6: Blackberries
+  7: Blueberries
+  8: Book
+  9: Broccoli
+  10: Brussel Sprouts
+  11: Butter
+  12: Cabbage
+  13: Cantaloupe
+  14: Carrots
+  15: Cauliflower
+  16: Cerealbox
+  17: Cheese
+  18: Clementine
+  19: Coffee
+  20: Corn
+  21: Cucumber
+  22: Detergent
+  23: Drinks
+  24: Egg
+  25: Eggplant
+  26: Eggs
+  27: Galia
+  28: Grapes
+  29: Honeydew
+  30: Juice
+  31: Lettuce
+  32: Meat
+  33: Milk
+  34: Mushrooms
+  35: Nectarine
+  36: Orange
+  37: Oranges
+  38: Pineapple
+  39: Plum
+  40: Pomegranate
+  41: Raspberries
+  42: Salad
+  43: Sauce
+  44: Spinach
+  45: Squash
+  46: Strawberries
+  47: Strawberry
+  48: Tofu
+  49: Tomatoes
+  50: Watermelon
+  51: Yogurt
+  52: Zucchini
+  53: beverage
+  54: food-box
+  55: fruit
+  56: utility-box
+  57: vegetable
